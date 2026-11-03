@@ -1,0 +1,8 @@
+uk-fire-drought-monitor/
+│
+├── core.py
+├── dashboard.py
+├── worker.py
+├── requirements.txt
+├── .gitignore
+└── README.md
