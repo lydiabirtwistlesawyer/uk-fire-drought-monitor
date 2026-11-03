@@ -1,0 +1,8 @@
+streamlit>=1.40
+requests>=2.32
+pandas>=2.2
+python-dotenv>=1.0
+APScheduler>=3.10
+folium>=0.19
+streamlit-folium>=0.24
+plotly>=5.24
